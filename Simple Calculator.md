@@ -11,5 +11,6 @@ Simple modern-style calculator made with Python Tkinter.
 ## How to Run
 1. Install Python 3
 2. Download this repository
-3. Run:
+3. change window.iconbitmap to your calc.ico location
+4. Run:
 
